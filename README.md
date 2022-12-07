@@ -2,15 +2,21 @@
 
 ## [Packages List]
 
-Python   3.8.5
+Python 3.8.5
+
 Flask    
+
 Werkzeug 
+
 joblib   
+
 pandas   
+
 numpy    
+
 sklearn  
 
-===================
+
 ## [Environment & Packages Installation]
 
 `conda create -n fp_aim python=3.8.5`
